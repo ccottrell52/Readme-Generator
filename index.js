@@ -4,6 +4,8 @@ const fs = require('fs'); //library for reading and writing files
 const inquirer = require('inquirer'); //inquirer package
 const generateMarkdown = require('./utils/generateMarkdown'); //link to generateMarkdown.js file
 
+
+
 // TODO: Create an array of questions for user input
 const questions = [
     //TITLE SECTION
